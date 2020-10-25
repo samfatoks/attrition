@@ -1,6 +1,6 @@
 # Attrition
 
-**TODO: Add description**
+Library that allows easy addition and removal of html attributes.
 
 ## Installation
 
