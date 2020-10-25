@@ -31,7 +31,7 @@ defmodule Attrition do
     """
     @spec data_qa(String.t) :: String.t
     def data_qa(string) do
-      "data-test=\"#{string}\""
+      "data-qa=\"#{string}\""
     end
   end
 end
